@@ -1,0 +1,4 @@
+keyStore: store
+keyPath: react-sprint6/tools-npm.key
+secretName: KEY_TESTS
+illegalChanges: []
